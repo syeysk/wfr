@@ -1,0 +1,9 @@
+[submodule "webif"]
+	path = webif
+	url = git://github.com/syeysk/wfr_fgmt_webif.git
+[submodule "programm"]
+	path = programm
+	url = git://github.com/syeysk/wfr_fgmt_programm.git
+[submodule "pcb"]
+	path = pcb
+	url = git://github.com/syeysk/wfr_fgmt_pcb.git
