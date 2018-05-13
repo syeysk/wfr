@@ -4,3 +4,6 @@
 [submodule "pcb"]
 	path = pcb
 	url = git://github.com/syeysk/wfr_fgmt_pcb.git
+[submodule "programm/WFR"]
+	path = programm/WFR
+	url = git://github.com/syeysk/wfr_fgmt_programm.git
