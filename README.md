@@ -9,8 +9,8 @@ Features:
 
 Photos of the first stable version:
 
-[![v.02 bottom](https://raw.githubusercontent.com/syeysk/wfr/master/images/v.02_bottom_min.jpg)](https://raw.githubusercontent.com/syeysk/wfr/master/images/v.02_bottom.jpg)
-[![v.02 top](https://raw.githubusercontent.com/syeysk/wfr/master/images/v.02_top_min.jpg)](https://raw.githubusercontent.com/syeysk/wfr/master/images/v.02_top.jpg)
+[![v0.2 bottom](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_bottom_min.jpg)](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_bottom.jpg)
+[![v0.2 top](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_top_min.jpg)](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_top.jpg)
 
 ## Programms, using for creating WFR
 
