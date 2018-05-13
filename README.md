@@ -12,8 +12,9 @@ Photos of the first stable version:
 [![v0.2 bottom](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_bottom_min.jpg)](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_bottom.jpg)
 [![v0.2 top](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_top_min.jpg)](https://raw.githubusercontent.com/syeysk/wfr/master/images/v0.2_top.jpg)
 
-## Programms, using for creating WFR
+## Building the project
 
+Programms, using for creating WFR:
 - *Printed Circiut Board (PCB) and electrical schema*: Autodesk Eagle
 - *Programm*: Arduino
 - *Instruction paper*: InkScape
