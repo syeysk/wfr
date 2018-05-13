@@ -13,7 +13,7 @@ Features:
 - *Programm*: Arduino
 - *Instruction paper*: InkScape
 
-You need http://github.com/syeysk/tools_webdata2esp to transform the web-interface's files into C-code.
+You need https://github.com/syeysk/tool_webdata2esp to transform the web-interface's files into C-code.
 
 # Other
 
