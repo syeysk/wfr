@@ -1,6 +1,6 @@
 # WiFi Relay (WFR)
 
-Features:
+**Features:**
 
 - 16 discret channels (off/on)
 - Access point or station mode, or both
@@ -22,11 +22,12 @@ You need https://github.com/syeysk/tool_webdata2esp to transform the web-interfa
 
 ## Other
 
-Chronology of WFR:
+**Chronology of WFR:**
+
 - 2017-09 - birth of the idea
 - 2017-10-06 - draft prototype
 - 2018-03-15 - stable prototype for using
 
-Warning! You use it without any warranty, so sorry.
+**Warning! You use it without any warranty, so sorry.**
 
 Created by Konstantin Polyakov, since 2018-03
