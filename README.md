@@ -17,7 +17,7 @@ Photos of the first stable version:
 Programms, using for creating WFR:
 - *Printed Circiut Board (PCB) and electrical schema*: Autodesk Eagle
 - *Programm*: Arduino
-- *Instruction paper*: InkScape
+- *User manual*: InkScape
 
 You need https://github.com/syeysk/tool_webdata2esp to transform the web-interface's files into C-code.
 
